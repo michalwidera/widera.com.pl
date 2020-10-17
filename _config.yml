@@ -61,7 +61,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Strona będzie zawierać podstawowe informacje o mnie. Strona jest w trakcie tworzenia. Proszę o cierpliwość."
   links:
-    - label: "Website"
+    - label: "Strona"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"
