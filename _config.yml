@@ -59,20 +59,20 @@ plugins:
 author:
   name   : "Michał Widera"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Strona będzie zawierać podstawowe informacje o mnie."
+  bio    : "Strona będzie zawierać podstawowe informacje o mnie. Strona jest w trakcie tworzenia. Proszę o cierpliwość."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/widera_michal"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/michalwidera"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/mtwidera"
 
 footer:
   links:
