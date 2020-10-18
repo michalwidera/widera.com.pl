@@ -22,7 +22,8 @@ twitter_username: widera_michal
 github_username: michalwidera
 minimal_mistakes_skin: default
 search: true
-google_site_verification: "yourVerificationCode"
+facebook:
+  username: "widera.michal" # https://www.facebook.com/widera.michal
 
 # Build settings
 markdown: kramdown
@@ -33,6 +34,15 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 repository: "michalwidera/widera.com.pl"
+
+social:
+  type: Person
+  name: Michał Widera
+  links:
+    - "https://www.facebook.com/widera.michal"
+    - "https://twitter.com/widera_michal"
+    - "https://www.linkedin.com/in/michalwidera/"
+    - "https://www.instagram.com/mtwidera"
 
 include:
   - _pages
@@ -62,10 +72,11 @@ author:
   name   : "Michał Widera"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Strona będzie zawierać podstawowe informacje o mnie. Strona jest w trakcie tworzenia. Proszę o cierpliwość."
+  location: "Poland, PL"
   links:
     - label: "Strona"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://widera.com.pl"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/widera_michal"
