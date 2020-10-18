@@ -1,6 +1,8 @@
 ---
 title: "Moje publikacje"
 excerpt_separator: "<!--more-->"
+toc: true
+toc_label: "Spis treści"
 categories:
   - Blog
 tags:
@@ -10,14 +12,14 @@ tags:
 
 W trakcie mojej pracy stworzyłem szereg publikacji.
 
-- Lista publikacji w czasopismach:
+# Lista publikacji w czasopismach:
 
 -- Magazyn Programista sierpień/wrzesień 2020. Retractor DB - separator serii czasowych, 2020, vol 92, sierpień/wrzesień 2020, pages 14-20 [info](https://programistamag.pl/programista-5-2020-92/)
 
 -- Bajtek 1990, nr 55-56 Mini Edytor Duszków page 12 
 [xarchive](https://archive.org/details/bajtek19900910/page/n11/mode/2up)
 
-- Lista publikacji w czasopismach naukowych:
+# Lista publikacji w czasopismach naukowych:
 
 -- M.Widera: Protokół komunikacyjny strumieniowego systemu zarządzania danymi Studia Informatica, 2013, vol 34. Nr 2A(111), pages 112-122 
 
@@ -67,7 +69,7 @@ W trakcie mojej pracy stworzyłem szereg publikacji.
 
 -- J.Jezewski , M.Widera , R.Winiarczyk , A.Matonia , T.Kupka, A.Gacek : Data stream processing in fetal monitoring system: II.Application to signal processing, Journal of Medical Informatics & Technologies, Vol. 6 ISSN 1642-6037, 2003, pages 35-42 [pdf](https://www.academia.edu/4609273/DATA_STREAM_PROCESSING_IN_FETAL_MONITORING_SYSTEM_II_APPLICATION_TO_SIGNAL_PROCESSING)
 
-- Lista książek:
+# Lista książek:
 
 -- Wyklady z podstaw informatyki prof. Stefana Wegrzyna Skr. nr 2192, ISSN 0434-0825
 
