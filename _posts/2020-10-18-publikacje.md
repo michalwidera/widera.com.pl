@@ -19,6 +19,11 @@ W trakcie mojej pracy stworzyłem szereg publikacji.
 -- Bajtek 1990, nr 55-56 Mini Edytor Duszków page 12 
 [xarchive](https://archive.org/details/bajtek19900910/page/n11/mode/2up)
 
+# Publikacje internetowe
+
+-- Raport z Ewaluacji Intel Joule 570x
+(https://www.element14.com/community/roadTestReviews/2429/l/intel-joule-570x-developer-kit-review)
+
 # Lista publikacji w czasopismach naukowych:
 
 -- M.Widera: Protokół komunikacyjny strumieniowego systemu zarządzania danymi Studia Informatica, 2013, vol 34. Nr 2A(111), pages 112-122 
