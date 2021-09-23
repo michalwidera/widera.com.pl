@@ -22,7 +22,7 @@ W trakcie mojej pracy stworzyłem szereg publikacji.
 # Publikacje internetowe
 
 -- Raport z Ewaluacji Intel Joule 570x
-(https://www.element14.com/community/roadTestReviews/2429/l/intel-joule-570x-developer-kit-review)
+[element14](https://www.element14.com/community/roadTestReviews/2429/l/intel-joule-570x-developer-kit-review)
 
 # Lista publikacji w czasopismach naukowych:
 
