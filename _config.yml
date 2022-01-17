@@ -77,7 +77,7 @@ whitelist:
 author:
   name   : "Michał Widera"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Strona będzie zawierać podstawowe informacje o mnie. Programuję. Nie zajmowałem się żużlem, nie zajmowałem się polityką. W Polsce nie mam dalszych krewnych o moim nazwisku. Strona jest w trakcie tworzenia. Proszę o cierpliwość."
+  bio    : "Strona będzie zawierać podstawowe informacje o mnie. Całe swoje zawodowe życie programuję. Nie zajmowałem się żużlem, nie zajmowałem się polityką. W Polsce nie mam dalszych krewnych o moim nazwisku."
   location: "Poland, PL"
   links:
     - label: "Strona"
