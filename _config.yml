@@ -67,6 +67,13 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
 author:
   name   : "Michał Widera"
   avatar : "/assets/images/bio-photo.jpg"
