@@ -6,8 +6,7 @@ toc_label: "Spis treści"
 categories:
   - Blog
 tags:
-  - link
-  - standard
+  - retractor
 ---
 
 Od wielu lat tworzę samodzielnie pewien system przetwarzania danych. Od pewnego czasu nosi on nazwę RetractorDB i można go zobaczyć na stronie [RetractorDB.com](https://retractordb.com).

@@ -6,8 +6,7 @@ toc_label: "Napis - Muro"
 categories:
   - Blog
 tags:
-  - link
-  - standard
+  - atari
 ---
 
 ~~~

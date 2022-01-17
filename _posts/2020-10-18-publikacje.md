@@ -6,8 +6,8 @@ toc_label: "Spis treści"
 categories:
   - Blog
 tags:
-  - link
-  - standard
+  - retractor
+  - science
 ---
 
 W trakcie mojej pracy stworzyłem szereg publikacji.
