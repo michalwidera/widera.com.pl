@@ -74,3 +74,4 @@ Tutaj przepisany program:
 410 RETURN
 ~~~
 
+![Wykonanie programu na Atari](/assets/images/atari-ghost-editor.jpg)
