@@ -75,3 +75,6 @@ Tutaj przepisany program:
 ~~~
 
 ![Wykonanie programu na Atari](/assets/images/atari-ghost-editor.jpg)
+
+Jak mimo wszystko ktoś chce tworzyć dane dla sprite sugeruję użyć czegoś bardziej użytecznego. 
+Takie coś [SprEd](https://bocianu.gitlab.io/spred/) z pewnością będzię pomocne.
