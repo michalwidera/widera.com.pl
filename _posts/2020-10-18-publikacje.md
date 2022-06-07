@@ -76,6 +76,6 @@ W trakcie mojej pracy stworzyłem szereg publikacji.
 
 # Lista książek:
 
--- Wyklady z podstaw informatyki prof. Stefana Wegrzyna Skr. nr 2192, ISSN 0434-0825
+-- Wyklady z podstaw informatyki prof. Stefana Wegrzyna Skr. nr 2192, ISSN 0434-0825 [bibloteka PolŚl](https://integro.bg.polsl.pl/site/recorddetail/0171900161640)
 
--- Oracle Form Builder - wyd. Helion, 2001 ISBN: 83-7197-346-2, pages: 312 
+-- Oracle Form Builder - wyd. Helion, 2001 ISBN: 83-7197-346-2, pages: 312 [helion](https://helion.pl/ksiazki/oracle-form-builder-michal-widera,oracfb.htm) - (Moja opinia na temat niektórych recenzji: Zgadzam się że to co napisałem nie jest najlepsze, ale wtedy miałem taką wiedzę - teraz już bym tego nie napisał w ten sposób, lub wcale)
