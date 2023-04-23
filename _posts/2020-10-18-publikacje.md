@@ -14,7 +14,7 @@ W trakcie mojej pracy stworzyłem szereg publikacji.
 
 # Lista publikacji w czasopismach:
 
--- Magazyn Programista sierpień/wrzesień 2020. Retractor DB - separator serii czasowych, 2020, vol 92, sierpień/wrzesień 2020, pages 14-20 [info](https://programistamag.pl/programista-5-2020-92/)
+-- Magazyn Programista sierpień/wrzesień 2020. Retractor DB - separator serii czasowych, 2020, vol 92, sierpień/wrzesień 2020, pages 14-20 [info](https://programistamag.pl/programista-5-2020-92/) [shop](https://ebookpoint.pl/ksiazki/programista-nr-92-hartowanie-kodu-programista-magazyn,e_37i6.htm)
 
 -- Bajtek 1990, nr 55-56 Mini Edytor Duszków page 12 
 [xarchive](https://archive.org/details/bajtek19900910/page/n11/mode/2up)
