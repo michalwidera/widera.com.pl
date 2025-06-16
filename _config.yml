@@ -94,7 +94,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/mtwidera"
     - label: "Demozoo"
-      icon: "fab fa-fw fa-microchip"
+      icon: "far fa-fw fa-star"
       url: "https://demozoo.org/sceners/49672/"
 
 footer:
