@@ -42,6 +42,7 @@ social:
     - "https://twitter.com/widera_michal"
     - "https://www.linkedin.com/in/michalwidera/"
     - "https://www.instagram.com/mtwidera"
+    - "https://demozoo.org/sceners/49672/"
 
 include:
   - _pages
@@ -92,6 +93,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/mtwidera"
+    - label: "Demozoo"
+      icon: "fab fa-fw fa-microchip"
+      url: "https://demozoo.org/sceners/49672/"
 
 footer:
   links:
