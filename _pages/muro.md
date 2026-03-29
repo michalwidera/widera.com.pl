@@ -9,7 +9,7 @@ Pochodziło one od gry w piłkę. Jako że nie bardzo sobie z tym radziłem, z u
 Tworzyłem pod tym pesudonimem programy na komputerze Atari.
 Zapis w alfabecie katakana przedstawia się następująco:
 
-** ムロ **
+**ムロ**
 
 Muro to też popularne japońskie nazwisko.
 Należy podkreślić, że same znaki ム (mu) oraz ロ (ro) nie niosą ze sobą konkretnego znaczenia (jak ideogramy kanji) – reprezentują jedynie dźwięki.
